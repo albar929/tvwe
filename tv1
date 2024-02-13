@@ -28,7 +28,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-logo="https://github.com/albar929/logotv1/blob/main/moji.png?raw=true" group-title="INDOV+",02.MOJI
+#EXTINF:-1 tvg-logo="https://github.com/albar929/logotv1/blob/main/moji.png?raw=true" group-title="INDOV+",03.MOJI
 https://etslive-2-vidio-com.akamaized.net/live/206/master.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
