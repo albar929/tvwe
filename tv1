@@ -1,7 +1,7 @@
 EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-logo="https://github.com/albar929/logotv1/blob/main/net.png?raw=true" group-title="INDOV+",1.NET HD
+#EXTINF:-1 tvg-logo="https://github.com/mimipipi22/lalajo/blob/main/logo%20fmx/NET.%20HD-FirstMedia-Chl-411.jpg" group-title="INDOV+",1.NET HD
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1805709,RESOLUTION=1024x576,FRAME-RATE=25.000
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
